@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/bmi"
+        android:id="@+id/bmiFragment2"
+        android:title="BMI Calculator">
+
+    </item>
+
+
+    <item
+        android:icon="@drawable/thermometer"
+        android:id="@+id/temperatureFragment2"
+        android:title="Temperature Calculator">
+
+    </item>
+
+    <item
+
+        android:id="@+id/settings"
+        android:title="Settings">
+
+    </item>
+
+    <item
+        android:id="@+id/share"
+        android:title="Share">
+
+    </item>
+
+
+
+
+</menu>
